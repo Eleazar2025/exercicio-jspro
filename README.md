@@ -30,4 +30,10 @@ See the section on [`code`](#code).
 
 ![The San Juan Mountains are beautiful!](/assets/agreste.png "San Juan Mountains")
 
+** Roadmap
+
+- [x] Instalar no local de medição
+- [x] Montagem da protoboard
+- [x] Publicação do artigo na IEEE 
+
 
